@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jardinEmocional/static/css/main.5c8f768b.css",
+    "main.js": "/jardinEmocional/static/js/main.5e6d6905.js",
+    "static/js/787.dba09bb9.chunk.js": "/jardinEmocional/static/js/787.dba09bb9.chunk.js",
+    "static/media/Conferencias.png": "/jardinEmocional/static/media/Conferencias.cb0e1559c2a425468b28.png",
+    "static/media/web fotoresize.jpg": "/jardinEmocional/static/media/web fotoresize.ad4f7bfe9476704c4924.jpg",
+    "static/media/logo corregido corazon.png": "/jardinEmocional/static/media/logo corregido corazon.302adeae956df3fb5ac9.png",
+    "static/media/logo.svg": "/jardinEmocional/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jardinEmocional/index.html",
+    "main.5c8f768b.css.map": "/jardinEmocional/static/css/main.5c8f768b.css.map",
+    "main.5e6d6905.js.map": "/jardinEmocional/static/js/main.5e6d6905.js.map",
+    "787.dba09bb9.chunk.js.map": "/jardinEmocional/static/js/787.dba09bb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8f768b.css",
+    "static/js/main.5e6d6905.js"
+  ]
+}
