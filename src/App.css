@@ -41,6 +41,8 @@
   position: fixed;
   display: grid;
   position: sticky;
+  height: 100px; 
+  /* revisar */
 }
 
 .ulcss {
