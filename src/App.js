@@ -17,25 +17,26 @@ import Blog from './pages/Blog';
 
 
 
+
 function App() {
   return (
     
     <div className="App">
-      
+     
       <img src={Logo} className="App-logo" alt="logo" ></img>
-       {/* <div className="menu" >
+        <div className="menu" >
         <nav className="navbar navbar-expand-lg ">
           <ul className=" ulcss  navbar navbar-nav"  >
             <li className="nav-item" ><Link to="/">Sobre mi</Link> </li>
-            <li className="nav-item"><a href="/sesiones">Sesiones</a> </li>
+            <li className="nav-item"><Link to="/sesiones">Sesiones</Link> </li>
             <li className="nav-item"><Link to="/talleres">Talleres</Link></li>
-            <li className="nav-item"><a href="/blog">Blog</a></li>
-            <li className="nav-item"><a href="#spirit">Contacto</a></li>
+            <li className="nav-item"><Link to="/blog">Blog</Link></li>
+            <li className="nav-item"><Link to="/contacto">Contacto</Link></li>
           </ul>
         </nav>
         
         <Outlet />
-      </div>  */}
+      </div>  
       
       {/* <header className="App-home">
         <img src={principal} />
@@ -65,19 +66,16 @@ function App() {
       </form> */}
 
       <Routes>
-        <Route path='/' element={ <Layout/>} >
+          <Route path='/jardinEmocional'  element={ <Inicio/>} />
+          <Route path='/'  element={ <Inicio/>} />
+
           <Route path='talleres' element={ <Talleres/>} />
-          <Route path='/' element={ <Inicio/> } />
           <Route path='blog' element={ <Blog/>} />
           <Route path='sesiones' element={ <Sesiones/>} />
           <Route path='contacto' element={ <Inicio/>} />
-
-          
-
-        </Route>
+        
       </Routes>
 
-      
     </div>
   );
 }
