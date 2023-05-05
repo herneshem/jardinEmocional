@@ -14,7 +14,7 @@ const Layout = () => {
             <li className="nav-item"><Link to="/contacto">Contacto</Link></li>
           </ul>
         </nav>
-        <hr></hr>
+       <br></br>
         <Outlet />
       </div>
     </>

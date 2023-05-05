@@ -11,7 +11,7 @@ import Inicio from './pages/Inicio';
 import Talleres from './pages/Talleres';
 import Sesiones from './pages/Sesiones';
 import Blog from './pages/Blog';
-import Contacto from './pages/Contacto';
+
 
 
 
@@ -23,7 +23,7 @@ function App() {
     <div className="App">
       
       <img src={Logo} className="App-logo" alt="logo" ></img>
-      {/* <div className="menu" >
+       {/* <div className="menu" >
         <nav className="navbar navbar-expand-lg ">
           <ul className=" ulcss  navbar navbar-nav"  >
             <li className="nav-item" ><Link to="/">Sobre mi</Link> </li>
@@ -35,7 +35,7 @@ function App() {
         </nav>
         
         <Outlet />
-      </div> */}
+      </div>  */}
       
       {/* <header className="App-home">
         <img src={principal} />
