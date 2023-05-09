@@ -1,5 +1,8 @@
 import Conferencias from '../img/Conferencias.png';
+import Talleres from '../img/Talleres vivenciales.png';
+
 import principal from '../img/web fotoresize.jpg';
+import { Outlet, Link } from "react-router-dom";
 
 
 const Inicio = () =>{
@@ -11,10 +14,11 @@ return(
         <img src={principal} />
 
         <div className='cards'>
-          <div><img src={Conferencias}></img></div>
-          <div><img src={Conferencias}></img></div>
-          <div><img src={Conferencias}></img></div>
-          <div><img src={Conferencias}></img></div>
+          <div><Link to="/sesiones"><img src={Conferencias}></img></Link></div> 
+          <div><Link to="/talleres"><img src={Talleres}></img></Link></div> 
+          <div><Link to="/blog"><img src={Conferencias}></img></Link></div> 
+          <div><Link to="/contacto"><img src={Conferencias}></img></Link></div> 
+          
         </div>
       </header>
 
