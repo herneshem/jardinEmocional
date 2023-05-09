@@ -65,15 +65,13 @@ function App() {
         <button type="submit" class="btn btn-primary">Submit</button>
       </form> */}
 
-      <Routes path='/'  element={ <Inicio/>}>
-        <Route>
-        <Route path='/'  element={ <Inicio/>} /> 
+      <Routes>
+          
+          <Route path='/'  element={ <Inicio/>} />
           <Route path='talleres' element={ <Talleres/>} />
           <Route path='blog' element={ <Blog/>} />
           <Route path='sesiones' element={ <Sesiones/>} />
-          <Route path='contacto' element={ <Inicio/>} />   
-        </Route>
-             
+          <Route path='contacto' element={ <Inicio/>} />      
       </Routes>
 
     </div>
