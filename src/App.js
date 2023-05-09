@@ -71,7 +71,8 @@ function App() {
           <Route path='talleres' element={ <Talleres/>} />
           <Route path='blog' element={ <Blog/>} />
           <Route path='sesiones' element={ <Sesiones/>} />
-          <Route path='contacto' element={ <Inicio/>} />      
+          <Route path='contacto' element={ <Inicio/>} />  
+          <Route path='/jardinEmocional' exact element={ <Inicio/>} />    
       </Routes>
 
     </div>
