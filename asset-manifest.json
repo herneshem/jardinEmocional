@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/jardinEmocional/static/css/main.c3908aea.css",
-    "main.js": "/jardinEmocional/static/js/main.47ced662.js",
+    "main.css": "/jardinEmocional/static/css/main.6c6734a5.css",
+    "main.js": "/jardinEmocional/static/js/main.def1b0dd.js",
     "static/js/787.dba09bb9.chunk.js": "/jardinEmocional/static/js/787.dba09bb9.chunk.js",
+    "static/media/ANTONIO GONZÁLES.png": "/jardinEmocional/static/media/ANTONIO GONZÁLES.865df30c276c8828e01a.png",
     "static/media/Talleres vivenciales.png": "/jardinEmocional/static/media/Talleres vivenciales.79565e6582c728b352f9.png",
+    "static/media/MARIE ASTRID.png": "/jardinEmocional/static/media/MARIE ASTRID.4279693ff74b0c0d9576.png",
+    "static/media/EVA KONDILI.png": "/jardinEmocional/static/media/EVA KONDILI.ca986a6e88e0d9b560f2.png",
+    "static/media/PILAR MONTALVÁN.png": "/jardinEmocional/static/media/PILAR MONTALVÁN.647478759eae21224d1a.png",
     "static/media/Conferencias.png": "/jardinEmocional/static/media/Conferencias.cb0e1559c2a425468b28.png",
+    "static/media/MÓNIKA MÉZAROS.png": "/jardinEmocional/static/media/MÓNIKA MÉZAROS.8225c96ff6623be6b2f7.png",
     "static/media/web fotoresize.jpg": "/jardinEmocional/static/media/web fotoresize.ad4f7bfe9476704c4924.jpg",
     "static/media/logo corregido corazon.png": "/jardinEmocional/static/media/logo corregido corazon.302adeae956df3fb5ac9.png",
     "static/media/logo.svg": "/jardinEmocional/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jardinEmocional/index.html",
-    "main.c3908aea.css.map": "/jardinEmocional/static/css/main.c3908aea.css.map",
-    "main.47ced662.js.map": "/jardinEmocional/static/js/main.47ced662.js.map",
+    "main.6c6734a5.css.map": "/jardinEmocional/static/css/main.6c6734a5.css.map",
+    "main.def1b0dd.js.map": "/jardinEmocional/static/js/main.def1b0dd.js.map",
     "787.dba09bb9.chunk.js.map": "/jardinEmocional/static/js/787.dba09bb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3908aea.css",
-    "static/js/main.47ced662.js"
+    "static/css/main.6c6734a5.css",
+    "static/js/main.def1b0dd.js"
   ]
 }
