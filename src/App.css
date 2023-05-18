@@ -80,7 +80,23 @@
   display: grid;
 }
 
+/*BLOG*/
+.testimonios{
+  padding-top: 10px;
+  width: 80%;
+  margin: auto;
+  display: grid;
+  grid-template-rows: repeat(5,250px);
+}
 
+.test{
+  padding: 15px 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.test .im img{
+  width: 35%;
+}
 
 @keyframes App-logo-spin {
   from {
